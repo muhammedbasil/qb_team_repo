@@ -1,1 +1,3 @@
-Test file.
+Readme file.
+
+Checking commit message.
