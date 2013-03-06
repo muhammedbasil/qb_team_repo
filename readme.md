@@ -1,3 +1,3 @@
 Readme file.
 
-Checking commit message.
+Message failed.
