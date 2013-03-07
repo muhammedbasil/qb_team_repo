@@ -1,4 +1,2 @@
 Readme file.
-Basil Laptop.
-
 
